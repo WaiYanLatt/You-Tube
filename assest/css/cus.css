@@ -68,10 +68,17 @@
     .nabg{
         display: none;
     }
-    .no{
-        margin-left: 10px;
+    .border0{
+        border: none;
     }
+    /* .no{
+        margin-left: 10px;
+    } */
     .cap{
         display: none;
+    }
+    .nav-icon{
+        width: 40px;
+        height: 30px;
     }
 }
